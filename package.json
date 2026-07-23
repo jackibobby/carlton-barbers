@@ -1,0 +1,27 @@
+{
+  "name": "carlton-barbers",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Carlton Barbers Professional Services Australia",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^12.42.2",
+    "react": "^19.1.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.7.0",
+    "react-router-dom": "^7.18.1",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tailwindcss": "^4.1.11",
+    "vite": "^7.0.4"
+  }
+}
