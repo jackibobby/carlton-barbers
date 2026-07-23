@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/navbar";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import WhatsappButton from "./components/WhatsappButton";
 import ThemeToggle from "./components/ThemeToggle";
 import ScrollProgress from "./components/ScrollProgress";

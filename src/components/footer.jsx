@@ -10,8 +10,6 @@ import {
 import { Link } from "react-router-dom";
 import Logo from "./Logo";
 
-<Logo size="lg" />
-
 function Footer() {
   const currentYear = new Date().getFullYear();
 
@@ -25,7 +23,8 @@ function Footer() {
 
           {/* Brand */}
           <div>
-          
+
+            <Logo size="lg" />
 
             <div className="flex gap-4 mt-6 text-xl">
 
